@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Viral Analyzer",
+  "description": "An interactive, full-stack media analyzer that conducts deep visual and structural analysis of images and videos using Gemini 3.5 Flash, providing USA-style titles, optimized hashtags, and virality predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
